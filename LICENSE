@@ -1,6 +1,6 @@
 SPDX-License-Identifier: MIT
 
-MIT License
+MIT License — news-26-b22-numbers (make.fun news-image-20261126 entry)
 
 Copyright (c) 2026 3jNyT6phJF3kQSdNs76BQYrhzh8kLhJ14EjE5dpiUuH2
 
@@ -21,3 +21,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+This license covers the entry program (main.py, gen.py) and the rendered
+image (entry.png) in this repository.
